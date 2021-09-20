@@ -37,6 +37,7 @@ public class GameManager : MonoBehaviour
 
     public void WinGame()
     {
+        Debug.Log("winning game");
         SceneManager.LoadScene("WinScene");
     }
 

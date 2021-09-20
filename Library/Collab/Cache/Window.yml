@@ -14,12 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
+    - Assets/Prefabs/Explosion.prefab
+    - Assets/Scenes/LoseScene.unity
     - Assets/Scenes/SampleScene.unity
-    - Assets/Scripts/PlayerController.cs
-    - Assets/Scripts/ShieldPot.cs
-    - Assets/Scripts/ShieldPot.cs.meta
+    - Assets/Scripts/Explosion.cs
+    - Assets/Scripts/GameManager.cs
+    - ProjectSettings/EditorBuildSettings.asset
     - 
-    m_Values: 0000000000
+    m_Values: 00000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
